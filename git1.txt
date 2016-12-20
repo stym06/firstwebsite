@@ -1,0 +1,7 @@
+Created a local repository in root folder
+name is : gitproject
+and pushing it to my 
+https://github.com/stym06/firstwebsite
+github repository.
+That's it.
+Or, is it?
